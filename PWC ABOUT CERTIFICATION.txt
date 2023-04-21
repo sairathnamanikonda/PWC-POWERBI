@@ -1,0 +1,25 @@
+https://cdn.theforage.com/vinternships/companyassets/4sLyCPgmsy8DA6Dh3/9RbnZnMj2k93xffms/PwC_Outline_Logo_White%201%20(1)%20(1).png
+
+||PWC POWERBI VIRTUAL CASE EXPERINCE||
+
+1.Call Centre Trends
+ .Defining KPIs
+ .Power BI Dashboard
+
+2.Customer Retention
+ .Defining KPIs
+ .Power BI
+ .Insights and Actions
+
+3.Diversity & Inclusion
+ .Calculating Measures
+ .Defining KPIs
+ .Power BI Dashboard
+ .Insight and Actions
+
+#Practical skills you will gain from working on this task:
+#Visualising customer and agent behaviour.
+#Customer demographics and insights.
+#Gender balance in the executive suite.
+
+||THIS IS ABOUT THE POWERBI VIRTUALCASE EXPRIRNCE||
